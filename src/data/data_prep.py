@@ -18,3 +18,5 @@ dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 
 api_key = os.getenv("apikey")
+
+#try another cool stuff here 
